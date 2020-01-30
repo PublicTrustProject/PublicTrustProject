@@ -1,4 +1,4 @@
-# PublicTrustProject
+# Public eTrust Project
 
 Pieces to the Public Trust Project Puzzle
 
